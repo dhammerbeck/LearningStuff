@@ -1,0 +1,133 @@
+first_name,last_name,standard_id,subject_name,name,score
+Laura,Baukol,13513,Non-Core,Build and Burn,3
+Bradley,Efting,13513,Non-Core,Build and Burn,3
+Cassandra,Peterson,13513,Non-Core,Build and Burn,3
+Justyna,Wozniak-Foster,13513,Non-Core,Build and Burn,3
+Katie,Jenkins,13513,Non-Core,Build and Burn,3
+Malila,Clearwater,13513,Non-Core,Build and Burn,3
+Matthew,Pestridge,13513,Non-Core,Build and Burn,3
+Anna,Lotko,13513,Non-Core,Build and Burn,3
+Ariana,Clark,13513,Non-Core,Build and Burn,3
+Kyle,Gray,13513,Non-Core,Build and Burn,3
+Matthew,Gordon,13513,Non-Core,Build and Burn,3
+Kevin,Cowley,13513,Non-Core,Build and Burn,3
+Chanse,Horton,13513,Non-Core,Build and Burn,3
+Tristan,Van Maren,13513,Non-Core,Build and Burn,3
+Anna,Mefford,13513,Non-Core,Build and Burn,3
+Aidan,Baack,13513,Non-Core,Build and Burn,3
+Ismail,Zarouali,13513,Non-Core,Build and Burn,3
+Elizabeth,Davis,13513,Non-Core,Build and Burn,3
+Kyle,Joyce,13513,Non-Core,Build and Burn,3
+Evan,Busse,13513,Non-Core,Build and Burn,3
+Devin,Hurd,13513,Non-Core,Build and Burn,3
+Mehri,Russo,13513,Non-Core,Build and Burn,3
+Christopher,Grabski,13513,Non-Core,Build and Burn,3
+Keegan,Ridgley,13513,Non-Core,Build and Burn,3
+Olivia,Hendrick,13513,Non-Core,Build and Burn,3
+Olivia,Ridgley,13513,Non-Core,Build and Burn,3
+Jason,Goldfarb,13513,Non-Core,Build and Burn,3
+Bradley,Chapin,13513,Non-Core,Build and Burn,3
+Stephen,Hanzlik,13513,Non-Core,Build and Burn,3
+Thomas,Sarkisian,13513,Non-Core,Build and Burn,3
+Justyna,Wozniak-Foster,13411,Productivity,Navigate and manage a file system with the command line,2
+Anna,Lotko,13411,Productivity,Navigate and manage a file system with the command line,2
+Jason,Goldfarb,13411,Productivity,Navigate and manage a file system with the command line,2
+Matthew,Gordon,13412,Productivity,Track changes using Git and Github,3
+Chanse,Horton,13412,Productivity,Track changes using Git and Github,3
+Keegan,Ridgley,13412,Productivity,Track changes using Git and Github,3
+Kyle,Joyce,13412,Productivity,Track changes using Git and Github,3
+Anna,Mefford,13412,Productivity,Track changes using Git and Github,3
+Ariana,Clark,13412,Productivity,Track changes using Git and Github,3
+Thomas,Sarkisian,13412,Productivity,Track changes using Git and Github,3
+Matthew,Lindly,13411,Productivity,Navigate and manage a file system with the command line,2
+Matthew,Gordon,13411,Productivity,Navigate and manage a file system with the command line,2
+Christopher,Grabski,13411,Productivity,Navigate and manage a file system with the command line,2
+Aidan,Baack,13411,Productivity,Navigate and manage a file system with the command line,2
+Laura,Baukol,13411,Productivity,Navigate and manage a file system with the command line,2
+Cassandra,Peterson,13411,Productivity,Navigate and manage a file system with the command line,2
+Kyle,Gray,13411,Productivity,Navigate and manage a file system with the command line,2
+Bradley,Efting,13411,Productivity,Navigate and manage a file system with the command line,2
+Devin,Hurd,13411,Productivity,Navigate and manage a file system with the command line,2
+Chanse,Horton,13411,Productivity,Navigate and manage a file system with the command line,2
+Stephen,Hanzlik,13411,Productivity,Navigate and manage a file system with the command line,2
+Mehri,Russo,13411,Productivity,Navigate and manage a file system with the command line,2
+Kevin,Cowley,13411,Productivity,Navigate and manage a file system with the command line,2
+Olivia,Hendrick,13411,Productivity,Navigate and manage a file system with the command line,2
+Bradley,Chapin,13411,Productivity,Navigate and manage a file system with the command line,2
+Anna,Mefford,13411,Productivity,Navigate and manage a file system with the command line,2
+Evan,Busse,13411,Productivity,Navigate and manage a file system with the command line,2
+Olivia,Ridgley,13411,Productivity,Navigate and manage a file system with the command line,2
+Keegan,Ridgley,13411,Productivity,Navigate and manage a file system with the command line,2
+Ariana,Clark,13411,Productivity,Navigate and manage a file system with the command line,2
+Kyle,Joyce,13411,Productivity,Navigate and manage a file system with the command line,2
+Elizabeth,Davis,13411,Productivity,Navigate and manage a file system with the command line,2
+Tristan,Van Maren,13411,Productivity,Navigate and manage a file system with the command line,2
+Katie,Jenkins,13411,Productivity,Navigate and manage a file system with the command line,2
+Thomas,Sarkisian,13411,Productivity,Navigate and manage a file system with the command line,2
+Matthew,Pestridge,13411,Productivity,Navigate and manage a file system with the command line,2
+Malila,Clearwater,13411,Productivity,Navigate and manage a file system with the command line,2
+Ismail,Zarouali,13411,Productivity,Navigate and manage a file system with the command line,2
+Heidi,Rodriguez,13411,Productivity,Navigate and manage a file system with the command line,2
+Anna,Lotko,13412,Productivity,Track changes using Git and Github,3
+Kyle,Gray,13412,Productivity,Track changes using Git and Github,3
+Tristan,Van Maren,13412,Productivity,Track changes using Git and Github,3
+Jason,Goldfarb,13412,Productivity,Track changes using Git and Github,3
+Cassandra,Peterson,13412,Productivity,Track changes using Git and Github,3
+Aidan,Baack,13412,Productivity,Track changes using Git and Github,3
+Laura,Baukol,13412,Productivity,Track changes using Git and Github,3
+Matthew,Pestridge,13412,Productivity,Track changes using Git and Github,3
+Stephen,Hanzlik,13412,Productivity,Track changes using Git and Github,3
+Katie,Jenkins,13412,Productivity,Track changes using Git and Github,3
+Bradley,Chapin,13412,Productivity,Track changes using Git and Github,3
+Kevin,Cowley,13412,Productivity,Track changes using Git and Github,3
+Evan,Busse,13412,Productivity,Track changes using Git and Github,3
+Malila,Clearwater,13412,Productivity,Track changes using Git and Github,3
+Mehri,Russo,13412,Productivity,Track changes using Git and Github,3
+Devin,Hurd,13412,Productivity,Track changes using Git and Github,3
+Olivia,Ridgley,13412,Productivity,Track changes using Git and Github,3
+Bradley,Efting,13412,Productivity,Track changes using Git and Github,3
+Elizabeth,Davis,13412,Productivity,Track changes using Git and Github,3
+Matthew,Lindly,13412,Productivity,Track changes using Git and Github,3
+Malila,Clearwater,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Tristan,Van Maren,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Laura,Baukol,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Matthew,Gordon,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Bradley,Efting,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Bradley,Chapin,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Kevin,Cowley,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Matthew,Lindly,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Kyle,Joyce,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Evan,Busse,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Keegan,Ridgley,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Jason,Goldfarb,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Mehri,Russo,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Christopher,Grabski,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Ariana,Clark,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Kyle,Gray,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Cassandra,Peterson,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Justyna,Wozniak-Foster,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Katie,Jenkins,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Stephen,Hanzlik,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Aidan,Baack,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Anna,Lotko,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Elizabeth,Davis,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Devin,Hurd,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Chanse,Horton,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Anna,Mefford,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Olivia,Ridgley,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Matthew,Pestridge,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Olivia,Hendrick,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Bradley,Chapin,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Laura,Baukol,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Anna,Mefford,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Malila,Clearwater,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Matthew,Lindly,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Chanse,Horton,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Devin,Hurd,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Mehri,Russo,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Keegan,Ridgley,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Bradley,Efting,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Evan,Busse,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Elizabeth,Davis,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Olivia,Hendrick,13394,Frontend,Write valid and semantic HTML5 Markup,2
+Aidan,Baack,12559,The Command Line,Work with and discuss and Unix Roles / Permissions,0
